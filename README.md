@@ -6,7 +6,7 @@ En esta práctica hay que estudiar las rutas en ExpressJS siguiendo los apuntes 
 - [Enlace a la asignatura](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
 - [Descripción de la tarea](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicalearningrouting.html)
 - [Libro en Gh-Pages](https://ull-esit-dsi-1617.github.io/estudiar-las-rutas-en-expressjs-alejandro-raul-35l2/)
-- [Libro en GitBook](https://www.gitbook.com/book/alu0100769579/estudiar-las-rutas-en-expressjs/)
+- [Libro en GitBook](https://alu0100769579.gitbooks.io/estudiar-las-rutas-en-expressjs/)
 
 ### IASS
 
