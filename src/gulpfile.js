@@ -9,3 +9,7 @@ gulp.task('uno', function(){
 gulp.task('dos', function(){
   exec('node ejemplo2.js');
 });
+
+gulp.task('tres', function(){
+  exec('node ejemplo3.js');
+});
