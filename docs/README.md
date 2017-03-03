@@ -1,5 +1,10 @@
 # Desarrollo de Sistemas Informáticos 2016/2017
 
-Se ha creado este GitBook, para la realización de la Práctica 2: Primeros pasos en NodeJs.
+Se ha creado este GitBook, para la realización de la Práctica 3: Estudiar las Rutas en ExpressJS.
 
-En él se encuentra una breve explicación del proceso de instalación de varias herramientas y programas junto con capturas de dicho proceso referidos a la práctica anterior, modificando algunos capítulos.
+## Autores:
+
+- Alejandro Díaz Cueca.
+- Raúl Martín Morales.
+
+

@@ -8,3 +8,8 @@
 * [6. Gh-Pages y Gulpfile](ghpagesgulpfile.md)
 * [7. Pandoc](pandoc.md)
 * [8 Cloud9](cloud9.md)
+* [9 Rutas en ExpressJS](rutasexpressjs.md)
+    * [Basic Routing](rutasexpressjs.md#basic-routing)
+    * [Routing Guide](rutasexpressjs.md#routing-guide)
+    * [Using Middleware](rutasexpressjs.md#using-middleware)
+    * [Routing API Documentation](rutasexpressjs.md#routing-api-documentation)
